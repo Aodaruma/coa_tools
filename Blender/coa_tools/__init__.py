@@ -173,6 +173,7 @@ classes = (
 
     edit_mesh.COATOOLS_OT_ReprojectSpriteTexture,
     edit_mesh.COATOOLS_OT_GenerateMeshFromEdgesAndVerts,
+    edit_mesh.COATOOLS_OT_TriangleFillMesh,
     edit_mesh.COATOOLS_OT_DrawContour,
     edit_mesh.COATOOLS_OT_PickEdgeLength,
 

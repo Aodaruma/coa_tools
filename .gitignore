@@ -4,3 +4,8 @@ Blender/coa_tools/operators/__pycache__
 Blender/coa_tools/venv
 Blender/coa_tools/.idea/
 Krita/coa_tools_exporter/.idea/
+.venv
+.vscode
+*.code-workspace
+Pipfile*
+.DS_Store
